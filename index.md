@@ -3,5 +3,19 @@ title = "Karl Gottlieb"
 +++
 
 
-# PAGE UNDER CONSTRUCTION
-## Home
+## About me
+I am a first-year PhD student in Mathematics and Computer Science at the *Université Grenoble Alpes*, in the *Laboratoire d'Informatique de Grenoble* under the supervision of [Jonatha Anselmi](https://polaris.imag.fr/jonatha.anselmi/) and [Bruno Gaujal](https://team.inria.fr/polaris/members/bruno-gaujal/) within the [Ghost team](https://ghost-team.gitlabpages.inria.fr/) (formerly POLARIS).
+
+My work focuses on online scheduling for the sake of energy minimization.
+See [Research](https://karlgottlieb.github.io/research/) for a dedicated presentation.
+
+You can contact me by mail here: `karl(dot)gottlieb(at)univ-grenoble-alpes(dot)fr`
+
+
+## News
+
+* **February 2026**: My first paper, joint with **Jonatha Anselmi** and **Bruno Gaujal**, "*Time-Constrained Energy Minimization for Online Execution of a Stochastic DAG Task*" has been accepted and published !!!
+
+* **February 2026**: Presentation at [ROADEF2026](https://roadef2026.sciencesconf.org/) ! [[slides](/assets/slides/ROADEF2026.pdf)]
+
+* **October 2025**: PhD begins !
