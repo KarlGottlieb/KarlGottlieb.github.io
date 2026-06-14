@@ -14,7 +14,7 @@ You can contact me by mail here: `karl(dot)gottlieb(at)univ-grenoble-alpes(dot)f
 
 ## News
 
-* **February 2026**: My first paper, joint with **Jonatha Anselmi** and **Bruno Gaujal**, "*Time-Constrained Energy Minimization for Online Execution of a Stochastic DAG Task*" has been accepted and published !!!
+* **February 2026**: My first paper, joint with **Jonatha Anselmi** and **Bruno Gaujal**, "*Time-Constrained Energy Minimization for Online Execution of a Stochastic DAG Task*" has been accepted and published.
 
 * **February 2026**: Presentation at [ROADEF2026](https://roadef2026.sciencesconf.org/) ! [[slides](/assets/slides/ROADEF2026.pdf)]
 
